@@ -1,2 +1,2 @@
 # flutter-first-app
-meu primeiro app em flutter
+meu primeiro app em flutter.
